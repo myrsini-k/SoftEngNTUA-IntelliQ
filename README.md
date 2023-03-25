@@ -3,17 +3,17 @@
 Group: softeng2022-68
 
 ## Members: 
-el19079 (Ioannis Dorkofikis)
+el19079 (Ioannis Dorkofikis - [ntua-el19079](https://github.com/ntua-el19079))
 
-el19034 (Adam Kapetis)
+el19034 (Adam Kapetis - [adamkapetis](https://github.com/adamkapetis))
 
-el19082 (Myrsini Kellari)
+el19082 (Myrsini Kellari - [mpyrsini](https://github.com/mpyrsini))
 
-el19008 (Ioannis Protogeros)
+el19008 (Ioannis Protogeros - [vanourogeros](https://github.com/vanourogeros))
 
-el19111 (Despoina Vidali)
+el19111 (Despoina Vidali - [despoinavdl](https://github.com/despoinavdl))
 
-el19084 (Panagiotis Xanthopoulos)
+el19084 (Panagiotis Xanthopoulos - [pxanthopoulos](https://github.com/pxanthopoulos))
 
 ## Contributors
 
