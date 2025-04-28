@@ -7,7 +7,7 @@ el19079 (Ioannis Dorkofikis - [ntua-el19079](https://github.com/ntua-el19079))
 
 el19034 (Adam Kapetis - [adamkapetis](https://github.com/adamkapetis))
 
-el19082 (Myrsini Kellari - [mpyrsini](https://github.com/mpyrsini))
+el19082 (Myrsini Kellari - [myrsini-k](https://github.com/myrsini-k))
 
 el19008 (Ioannis Protogeros - [vanourogeros](https://github.com/vanourogeros))
 
@@ -22,7 +22,7 @@ el19084 (Panagiotis Xanthopoulos - [pxanthopoulos](https://github.com/pxanthopou
 |[despoinavdl](https://github.com/despoinavdl)/ntua-el19111      |          |         |        | **☺**  |          |             |   **☺**     | **☹**         | 
 |[ntua-el19079](https://github.com/ntua-el19079)                 |          |         |        | **☺**  |          |             |   **☺**     | **☹**         | 
 |[adamkapetis](https://github.com/adamkapetis)/ntua-el19034      |  **☺**   | **☺**   | **☺**  |        |          |             |             | **☹**         | 
-|[mpyrsini](https://github.com/mpyrsini)/ntua-el19082            |          | **☺**   |        |        |  **☺**   |             |             | **☹**         | 
+|[myrsini-k](https://github.com/myrsini-k)/ntua-el19082          |          | **☺**   |        |        |  **☺**   |             |             | **☹**         | 
 |[pxanthopoulos](https://github.com/pxanthopoulos)               | **☺**    | **☺**   |  **☺** |        |  **☺**   |   **☺**     |             | **☹**         | 
 |[vanourogeros](https://github.com/vanourogeros)/ntua-el19008    | **☺**    | **☺**   |  **☺** |        |  **☺**   |   **☺**     |             | **☹**         |
 
